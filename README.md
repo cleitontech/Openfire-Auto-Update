@@ -1,4 +1,5 @@
-# openfire
+# Openfire-Auto-Update
+
 Este script foi desenvolvido para efetuar um auto update do serviço openfire.
 Inicialmente foi escrito para atuar nas distribuições CentOS | Red Rat
 
